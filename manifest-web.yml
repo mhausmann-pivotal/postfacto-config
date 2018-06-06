@@ -1,5 +1,5 @@
 ---
 applications:
-- name: {{web-app-name}}
+- name: retro
   env:
     FORCE_HTTPS: true
