@@ -9,6 +9,7 @@ window.Retro = {
     "websocket_url": "wss://postfacto-api.cfapps.lab01.pcf.pw:443/cable",
     "contact": "",
     "terms": "",
-    "privacy": ""
+    "privacy": "",
+    "google_oauth_client_id": "601894401748-4n9obnbt31u4ivvc0ei31i6k8jalrtgr.apps.googleusercontent.com"
   }
 }
